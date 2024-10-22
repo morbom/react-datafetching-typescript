@@ -1,6 +1,5 @@
 ## Using data fetching with react and typescript
 
-
 This Repo demonstrates the usage of fetching data using `fetch` with typescript and react
 
 This has the following
